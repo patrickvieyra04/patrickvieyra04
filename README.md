@@ -77,17 +77,73 @@ I enjoy working across the entire development stack, from designing user interfa
 
 ---
 
-### 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<div align="center">
 
-**EduPortal – Academic Mobile Application**
+## 🚀 FEATURED PROJECTS
 
-A mobile application designed to improve academic communication and information management at Pigier Cotonou.
+<sub>`> selected work: academic and professional`</sub>
 
-- React Native mobile application
-- Python / Flask backend
-- SQLite database
-- Authentication and role-based access
-- Real-time communication and notifications
+</div>
+
+<br>
+
+<!-- ---------- Project 1: EduPortal ---------- -->
+<blockquote>
+
+<h3>📱 EduPortal</h3>
+<sub><code>Mobile app · Academic management</code></sub>
+
+<p>Academic mobile application designed for <b>Pigier Cotonou</b>.</p>
+
+<p>
+  <img alt="Frontend: React Native" src="https://img.shields.io/badge/Frontend-React_Native-0A1330?style=flat-square&logo=react&logoColor=00D4FF&labelColor=1B2550" />
+  <img alt="Backend: Python / Flask" src="https://img.shields.io/badge/Backend-Python_/_Flask-0A1330?style=flat-square&logo=flask&logoColor=A855F7&labelColor=1B2550" />
+  <img alt="Database: SQLite" src="https://img.shields.io/badge/Database-SQLite-0A1330?style=flat-square&logo=sqlite&logoColor=00D4FF&labelColor=1B2550" />
+  <br>
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-0A1330?style=flat-square&logo=expo&logoColor=A855F7" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0A1330?style=flat-square&logo=sqlalchemy&logoColor=A855F7" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-0A1330?style=flat-square&logo=jsonwebtokens&logoColor=A855F7" />
+  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-0A1330?style=flat-square&logo=socketdotio&logoColor=A855F7" />
+</p>
+
+<b>Features</b>
+<ul>
+  <li>Academic management</li>
+  <li>Notifications</li>
+  <li>Secure authentication</li>
+  <li>Communication between users</li>
+</ul>
+
+<!-- Links (GitHub / Demo) to be added here -->
+
+</blockquote>
+
+<br>
+
+<!-- ---------- Project 2: AI-Factory Hub ---------- -->
+<blockquote>
+
+<h3>🤖 AI-Factory Hub</h3>
+<sub><code>Professional project · Full Stack</code></sub>
+
+<p>Professional project carried out during my experience in the <b>AI Factory</b> department at <b>Agiltym by H&amp;C</b>.</p>
+
+<p>
+  <img alt="Environment: Full Stack" src="https://img.shields.io/badge/Environment-Full_Stack-0A1330?style=flat-square&labelColor=1B2550" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A1330?style=flat-square&logo=typescript&logoColor=00D4FF" />
+  <img alt="TanStack" src="https://img.shields.io/badge/TanStack-0A1330?style=flat-square" />
+</p>
+
+<b>Current contribution</b>
+<ul>
+  <li>Project permissions and access management</li>
+</ul>
+
+<!-- Links (GitHub / Demo) to be added here -->
+
+</blockquote>
+<!-- ================= END OF FEATURED PROJECTS ================== -->
 
 ---
 
