@@ -18,38 +18,62 @@ I enjoy working across the entire development stack, from designing user interfa
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+<div align="center">
+
+## ⚡ TECH STACK
+
+<sub>`> technologies I build with, day to day`</sub>
+
+<br>
 
 **Frontend**
 
-- React Native
-- JavaScript
-- TypeScript
+<p align="center">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0A1330?style=for-the-badge&logo=react&logoColor=00D4FF" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0A1330?style=for-the-badge&logo=javascript&logoColor=00D4FF" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A1330?style=for-the-badge&logo=typescript&logoColor=00D4FF" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0A1330?style=for-the-badge&logo=html5&logoColor=00D4FF" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0A1330?style=for-the-badge&logo=css3&logoColor=00D4FF" />
+</p>
 
 **Backend**
 
-- Python
-- Flask
-- REST APIs
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0A1330?style=for-the-badge&logo=python&logoColor=A855F7" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-0A1330?style=for-the-badge&logo=flask&logoColor=A855F7" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-0A1330?style=for-the-badge&logo=swagger&logoColor=A855F7" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0A1330?style=for-the-badge&logo=sqlalchemy&logoColor=A855F7" />
+  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-0A1330?style=for-the-badge&logo=socketdotio&logoColor=A855F7" />
+</p>
 
-**Databases**
+**Database**
 
-- SQLite
-- SQLAlchemy
+<p align="center">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0A1330?style=for-the-badge&logo=sqlite&logoColor=00D4FF" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0A1330?style=for-the-badge&logo=mysql&logoColor=00D4FF" />
+</p>
 
-**Tools & Technologies**
+**Tools & DevOps**
 
-- Git & GitHub
-- Expo
-- Socket.IO
-- JWT Authentication
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0A1330?style=for-the-badge&logo=git&logoColor=A855F7" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A1330?style=for-the-badge&logo=github&logoColor=A855F7" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0A1330?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-0A1330?style=for-the-badge&logo=expo&logoColor=A855F7" />
+</p>
 
-**Areas of Interest**
+**Artificial Intelligence** · *areas of interest & exploration*
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Intelligent Automation
-- Software Architecture
+<p align="center">
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial_Intelligence-0A1330?style=for-the-badge" />
+  <img alt="Large Language Models (LLMs)" src="https://img.shields.io/badge/Large_Language_Models_%28LLMs%29-0A1330?style=for-the-badge" />
+  <img alt="AI Integration" src="https://img.shields.io/badge/AI_Integration-0A1330?style=for-the-badge" />
+  <img alt="Intelligent Automation" src="https://img.shields.io/badge/Intelligent_Automation-0A1330?style=for-the-badge" />
+</p>
+
+</div>
+<!-- ================= END OF TECH STACK ================== -->
 
 ---
 
