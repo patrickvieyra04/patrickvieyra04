@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.svg" width="100%" alt="Patrick Vieyra - Full Stack Developer & AI Enthusiast">
+</p>
+
 # Hi, I'm Patrick Vieyra 👋
 
 ### Full Stack Developer | Artificial Intelligence Enthusiast
