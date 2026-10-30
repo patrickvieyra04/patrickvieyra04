@@ -156,27 +156,6 @@ I enjoy working across the entire development stack, from designing user interfa
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-<div align="center">
-
-## 📊 GITHUB ANALYTICS
-
-<sub>`> live statistics from my GitHub activity`</sub>
-
-<br>
-
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickvieyra04&show_icons=true&bg_color=050B1B&title_color=00D4FF&text_color=D6E6FF&icon_color=A855F7&border_color=1B2550&border_radius=10" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickvieyra04&layout=compact&langs_count=6&bg_color=050B1B&title_color=00D4FF&text_color=D6E6FF&border_color=1B2550&border_radius=10" />
-
-<br>
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=patrickvieyra04&background=050B1B&border=1B2550&stroke=1B2550&ring=A855F7&fire=00D4FF&currStreakNum=D6E6FF&currStreakLabel=00D4FF&sideNums=D6E6FF&sideLabels=D6E6FF&dates=8FA3C7&border_radius=10" />
-
-</div>
-<!-- ================= END OF GITHUB ANALYTICS ================== -->
-
----
-
 ### 📬 Let's Connect
 
 I'm always interested in collaborating on innovative software projects, exploring new technologies, and learning from other developers.
