@@ -76,9 +76,13 @@ A mobile application designed to improve academic communication and information 
 
 ---
 
-### 🤝 Let's Connect
+### 📬 Let's Connect
 
 I'm always interested in collaborating on innovative software projects, exploring new technologies, and learning from other developers.
+
+- 📧 **Email:** [oladebignon@gmail.com](mailto:oladebignon@gmail.com)
+- 💼 **LinkedIn:** [Patrick Vieyra](https://www.linkedin.com/in/patrick-vieyra-0494b6391/)
+- 💻 **GitHub:** [@patrickvieyra04](https://github.com/patrickvieyra04)
 
 **Building today, innovating tomorrow.** 🚀
 
